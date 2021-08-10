@@ -1,4 +1,5 @@
-# Output from my (heavily modified) version of riversHaveWing's VQGAN+CLIP(z-quantize method).ipynb code.
+# Index for  [this video](https://youtu.be/azgLD8dYTf4)
+## Both video and this index were gemerated by my (heavily modified) version of riversHaveWing's VQGAN+CLIP(z-quantize method).ipynb code.
 #### ~actually, this is heavily trimmed output from my code so it fits in a README.md file~
 ## This took took 5h23m17s to generate a video 18310 frames long (12m12s at 25fps).
 
